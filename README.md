@@ -6,7 +6,7 @@
 
 ## Calculadora Freelancer
 
-- Calculo, quantidade por mês - horas por dia
+- Quantidade por mês - horas por dia
 
 - Valor Hora - Horas Projeto
 
